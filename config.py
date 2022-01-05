@@ -2,7 +2,7 @@ import os
 
 telegram = {
     "token":  os.getenv(
-        "TOKEN", "telegramtokenvalue"
+        "TOKEN", "5022309092:AAGV8O3dFD5R-rhFwyETUobJarMHtnDzq4w"
     )
 }
 
